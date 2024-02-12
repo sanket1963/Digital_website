@@ -21,7 +21,7 @@ const Products = [
   
     {
       id: 5,
-      img: "Ipad-1.png",
+      img: "ipad-1.png",
       category: "Mobile Tablets",
       title: "Aple ipad Air",
       price: "300.00",
